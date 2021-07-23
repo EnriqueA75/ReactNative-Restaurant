@@ -25,7 +25,7 @@ export default () => {
     }
     //call the seaarchAPI when component render
     useEffect(() => {
-        searchApi('pasta')
+        searchApi('beef')
     }, [])
 
     return [
